@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a,1b2a4a,1e3a5f&height=160&section=header&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
@@ -45,5 +44,4 @@
 -----
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a,1b2a4a,1e3a5f&height=100&section=footer&reversal=true" width="100%"/>
 </div>
