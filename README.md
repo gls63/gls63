@@ -16,17 +16,18 @@
 
   const developer: Developer = {
       name: 'gls63',
-      age: 17,
-      title: 'Bot Developer & AI Integrations',
-      focus: ['telegram bots', 'discord bots', 'web backends', 'ai integrations'],
+      age: 18,
+      title: 'dev ds & web dev',
+      focus: ['telegram bots', 'discord dev', 'web backends',software dev'],
       experience: '5+ years',
       projects: '30+',
       interests: [
           'bot development (aiogram, telethon, disnake, discord.js)',
-          'ai/llm integrations (openai, claude, anthropic)',
           'gta modding (sa-mp, open.mp, gta v rage:mp)'
       ]
   }
+
+-# you can order a bot: https://discord.com/users/1444729224551465153
 ```
 
 <br/>
