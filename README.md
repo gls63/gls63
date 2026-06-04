@@ -26,8 +26,6 @@
           'gta modding (sa-mp, open.mp, gta v rage:mp)'
       ]
   }
-
-by gls63
 ```
 
 <br/>
@@ -43,6 +41,7 @@ by gls63
 </div>
 
 -----
+by gls63
 
 <div align="center">
 </div>
