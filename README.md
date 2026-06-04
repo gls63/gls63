@@ -27,7 +27,7 @@
       ]
   }
 
--# you can order a bot: https://discord.com/users/1444729224551465153
+by gls63
 ```
 
 <br/>
