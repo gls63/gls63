@@ -16,9 +16,9 @@
 
   const developer: Developer = {
       name: 'gls63',
-      age: 18,
-      title: 'dev ds & web dev',
-      focus: ['telegram bots', 'discord dev', 'web backends',software dev'],
+      age: 19,
+      title: 'a pretty boy ',
+      focus: ['telegram bots creator', 'discord developer', 'web creator',software dev'],
       experience: '5+ years',
       projects: '30+',
       interests: [
