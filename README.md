@@ -27,11 +27,9 @@ experience: 5+ years
 projects:   30+
 languages:  Russian / English
 interests:
-  - bot development (aiogram, telethon, disnake)
+  - bot development (aiogram, telethon, disnake, discord.js, and many different libraries.
   - ai/llm integrations (openai, claude, anthropic)
   - gta modding (sa-mp, open.mp, gta v rage:mp)
-  - desktop customization (windows → macos aesthetic)
-  - music, gaming, vibecoding
 ```
 
 -----
